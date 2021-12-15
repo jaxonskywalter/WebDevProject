@@ -1,0 +1,82 @@
+.common {
+    background-color: ivory;
+    position: absolute;
+}
+
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 510px;
+    background-image: url('../images/background1.png');
+    background-position: top right;
+    color:ivory;
+}
+
+.mainbody {
+    top: 510px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.footer {
+    top: 5200px;
+    padding-top: 10px;
+    bottom: 0px;
+    height: 35px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    background-image: url('../images/background1.png');
+    background-position: top right;
+    color:white;
+}
+
+.subheader {
+    padding-top: 25px;
+    padding-right: 90px;
+    float: right;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.big {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+}
+
+.li {
+    color: white;
+    text-decoration: none;
+}
+
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+    background-color: transparent;
+    font-style: bold;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: white;
+    background-color: transparent;
+  }

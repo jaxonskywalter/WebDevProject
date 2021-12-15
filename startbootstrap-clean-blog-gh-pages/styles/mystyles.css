@@ -1,0 +1,25 @@
+.image {   
+    top: 1000px;
+    left: 200px;
+}
+
+.text {
+    text-align: center;
+    color: cadetblue;
+}
+
+.li {
+    color: #2323e2;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.fancy {
+    color: #19a79f;
+    font-size: 45px;
+}
+
+.ital {
+    font-style: italic;
+    color: grey;
+}
